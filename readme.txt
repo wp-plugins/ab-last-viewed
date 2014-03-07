@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Widget showing last five posts read.
 
 == Description ==
-This plugin adds a widget to display the last five user read.
+This plugin adds a widget to display the last five posts user read.
 Supports i18n.
 
 == Installation ==
